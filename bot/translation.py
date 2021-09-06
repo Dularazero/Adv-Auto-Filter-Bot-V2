@@ -9,8 +9,8 @@ class Translation(object):
 
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
-For More Details Click Help Button Below..
-@CrazyBotsz
+If You want Films Just Come Our Group..
+@whatsappgang
 </i>"""    
     
     HELP_TEXT = """
